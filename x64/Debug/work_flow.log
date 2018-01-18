@@ -1,0 +1,18 @@
+﻿  work_flow.cpp
+e:\opencv-3.2\mybuild\install\include\opencv2\core\mat.hpp(2585): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\opencv-3.2\mybuild\install\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\opencv-3.2\mybuild\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\opencv-3.2\mybuild\install\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\opencv-3.2\mybuild\install\include\opencv2\imgproc.hpp(591): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+e:\cplusplus_project\work_flow\work_flow\work_flow.cpp(111): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\cplusplus_project\work_flow\work_flow\work_flow.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\cplusplus_project\work_flow\work_flow\work_flow.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\cplusplus_project\work_flow\work_flow\work_flow.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\cplusplus_project\work_flow\work_flow\work_flow.cpp(116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\cplusplus_project\work_flow\work_flow\work_flow.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\cplusplus_project\work_flow\work_flow\work_flow.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\cplusplus_project\work_flow\work_flow\work_flow.cpp(236): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\cplusplus_project\work_flow\work_flow\work_flow.cpp(260): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+e:\cplusplus_project\work_flow\work_flow\work_flow.cpp(261): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+e:\cplusplus_project\work_flow\work_flow\work_flow.cpp(262): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+  work_flow.vcxproj -> E:\cplusplus_project\work_flow\x64\Debug\work_flow.exe

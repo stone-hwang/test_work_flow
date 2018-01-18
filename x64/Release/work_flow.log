@@ -1,0 +1,23 @@
+﻿  work_flow.cpp
+E:\opencv-3.2\mybuild\install\include\opencv2/core/mat.hpp(2585): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+E:\opencv-3.2\mybuild\install\include\opencv2/core/persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+E:\opencv-3.2\mybuild\install\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+E:\opencv-3.2\mybuild\install\include\opencv2/core/utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+E:\opencv-3.2\mybuild\install\include\opencv2/imgproc.hpp(591): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+work_flow.cpp(111): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+work_flow.cpp(112): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+work_flow.cpp(114): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+work_flow.cpp(115): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+work_flow.cpp(116): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+work_flow.cpp(117): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+work_flow.cpp(162): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+work_flow.cpp(236): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+work_flow.cpp(260): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+work_flow.cpp(261): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+work_flow.cpp(262): warning C4244: '=': conversion from 'double' to 'uchar', possible loss of data
+  Generating code
+  0 of 474 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  work_flow.vcxproj -> E:\cplusplus_project\work_flow\x64\Release\work_flow.exe
